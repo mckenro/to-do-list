@@ -1,0 +1,12 @@
+.listItem{
+  background: grey;
+  color: orange;
+}
+.listItem:hover{
+cursor: pointer;
+}
+.done{
+  text-decoration: line-through;
+  background: orange;
+  color:grey;
+}
