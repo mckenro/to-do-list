@@ -1,6 +1,7 @@
 .listItem{
   background: grey;
   color: orange;
+  font-size: 20px;
 }
 .listItem:hover{
 cursor: pointer;
@@ -9,4 +10,12 @@ cursor: pointer;
   text-decoration: line-through;
   background: orange;
   color:grey;
+}
+
+.dateStuff {
+  display: none;
+}
+
+.superTask {
+  font-size: 35px;
 }
